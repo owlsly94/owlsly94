@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsly94&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsly94&layout=pie&theme=catppuccin_mocha)
 
 <!--
 **owlsly94/owlsly94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
