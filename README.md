@@ -8,6 +8,10 @@
                 <img src="./images/html5-logo.png" alt="HTML5" width="48" height="48"/>
                 <br>HTML5
             </td>
+            <td align="center" width="96">
+                <img src="./images/css3-logo.png" alt="CSS3" width="48" height="48"/>
+                <br>CSS3
+            </td>
     </table>
 </div>
 
