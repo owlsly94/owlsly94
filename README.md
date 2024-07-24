@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## Skills
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <img src="./images/html5-logo.png" alt="HTML5" width="48" height="48"/>
+                <br>HTML5
+            </td>
+    </table>
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsly94&layout=pie&theme=catppuccin_mocha)
 
 <!--
