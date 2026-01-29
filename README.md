@@ -1,44 +1,37 @@
-## Hi there 👋
-I'm Stefan a.k.a Owlsly.<br>
-I worked as Freelance Web Developer for 5+ years. <br>
-Currently working as a System Admin, but learning C and Python, pursuing software development path.
+## Hi there, I'm Owlsly 👋 
 
-## My Skills
-### Web Dev
-<div>
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/HTML5" alt="HTML5" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/CSS3" alt="CSS3" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/javascript" alt="JS" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/react" alt="React" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/django" alt="Django" />
-  <br/><br/><br/>
-</div>
+**System Administrator | Former Freelance Web Developer | Linux Enthusiast**
 
-### Software Dev
-<div>
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/python" alt="Python" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/C" alt="C" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/lua" alt="Lua" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/gnubash" alt="Bash" />
-  <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/git" alt="Git" />
-  <br/><br/><br/>
-</div>
+I bring over **5 years of experience** as a Freelance Web Developer to my current role as a **System Administrator**. While I manage infrastructure by day, I spend my free time exploring software development and perfecting my **Linux dotfiles**.
 
+I’m currently bridging the gap between systems and software, focusing on building efficient tools and exploring low-level programming.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsly94&layout=pie&theme=catppuccin_mocha)
+---
 
-<!--
-**owlsly94/owlsly94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technical Toolkit
 
-Here are some ideas to get you started:
+**Current Focus & Systems**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/C/A8B9CC" alt="C" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" alt="Lua" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Development Background**
+<p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JS" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="40" />&nbsp;
+</p>
+
+---
+
+### ⚡ Quick Bits
+* 🐧 **Tinkering:** Constantly breaking and fixing my Linux dots.
+* 🛠️ **Experience:** 5+ years in the web dev world, now mastering the terminal.
+* 🎮 **Off-duty:** Most likely gaming or automating a task that takes 2 minutes.
+
+---
